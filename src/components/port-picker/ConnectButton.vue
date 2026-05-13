@@ -39,7 +39,7 @@
                     :icon="open ? 'i-lucide-chevron-up' : 'i-lucide-chevron-down'"
                     square
                     :disabled="portPickerDisabled"
-                    :aria-label="$t('connect')"
+                    :aria-label="$t('Ukraine!')"
                 />
             </UDropdownMenu>
         </UFieldGroup>
