@@ -19,6 +19,8 @@ NOTE: If you are considering testing the latest unstable release then it is at [
 
 Various types of aircraft are supported by the tool and by Betaflight, e.g. quadcopters, hexacopters, octocopters and fixed-wing aircraft.
 
+Note: This IS MY OWN FORK! TESTING/EDUCATIONAL MATTERS ONLY
+
 ## Historical Releases
 
 These are still available under different operating systems and allows you to configure the Betaflight software running on any supported Betaflight target. [Downloads are available in Releases.](https://github.com/betaflight/betaflight-configurator/releases)
